@@ -1,1 +1,2 @@
 # DiSUcord
+A Sabancı University (SU) version of Discord, with Client and Server modules. The Server oversees messages and channels, while the Client subscribes to channels, sends messages, and views subscribed channel messages. Clients connect by providing their IP address and port via a GUI, identifying themselves with unique usernames. The server maintains a list of connected usernames to prevent duplicates, aiming to create an efficient and secure message networking application for Sabancı University.
