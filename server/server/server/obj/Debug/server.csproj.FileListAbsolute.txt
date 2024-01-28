@@ -1,0 +1,50 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\obj\Debug\server.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\server\server\obj\Debug\server.pdb
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\bin\Debug\server.exe.config
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\obj\Debug\server.exe
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\obj\Debug\server.pdb
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\bin\Debug\server.exe
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\bin\Debug\server.pdb
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\obj\Debug\server.Form1.resources
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\ilter\OneDrive\Masaüstü\cs408Project\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\untitled folder 2\server\server\bin\Debug\server.exe.config
+\\Mac\Home\Desktop\untitled folder 2\server\server\bin\Debug\server.exe
+\\Mac\Home\Desktop\untitled folder 2\server\server\bin\Debug\server.pdb
+\\Mac\Home\Desktop\untitled folder 2\server\server\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\untitled folder 2\server\server\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.Form1.resources
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.Properties.Resources.resources
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.csproj.CopyComplete
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.exe
+\\Mac\Home\Desktop\untitled folder 2\server\server\obj\Debug\server.pdb
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\bin\Debug\server.exe.config
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\obj\Debug\server.pdb
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\obj\Debug\server.Form1.resources
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\bin\Debug\server.exe
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\bin\Debug\server.pdb
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilter\OneDrive\Masaüstü\project final 408\server (2)\server\server\obj\Debug\server.exe
